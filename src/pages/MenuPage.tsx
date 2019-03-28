@@ -124,12 +124,12 @@ class MenuPage extends BasePage<Props, States> {
           className={classes.logo}
           src="/images/logo.png" alt="Logo" />
         <div className={classes.title}>
-          <div className={classes.titleMain}>Sở Tài Nguyên và Môi Trường Bà Rịa Vũng Tàu</div>
+          <div className={classes.titleMain}>Sở Tài Nguyên và Môi Trường tỉnh Bà Rịa - Vũng Tàu</div>
           <div className={classes.titleSub}>
             <p>
-            Ứng dụng công nghệ GIS để quản lý cơ sở kinh doanh và điểm xả thải
+            WEBGIS QUẢN LÝ NGUỒN THẢI, CHẤT THẢI 
               <br></br>
-              Tỉnh Bà Rịa Vũng Tàu
+              TỈNH BÀ RỊA - VŨNG TÀU
             </p>
           </div>
         </div>
