@@ -53,10 +53,10 @@ class Header extends React.Component<Props, States> {
         </div>
         <div className={classes.title}>
           <div className={classes.titleMain}>
-            Sở Công Thương Bến Tre
+            Sở Tài Nguyên và Môi Trường tỉnh Bà Rịa - Vũng Tàu
         </div>
           <div className={classes.titleSub}>
-            <p>Ứng dụng công nghệ GIS để quản lý quy hoạch và phát triển hệ thống kinh doanh trên địa bàn tỉnh Bến Tre</p>
+            <p>WEBGIS QUẢN LÝ NGUỒN THẢI, CHẤT THẢI TỈNH BÀ RỊA - VŨNG TÀU</p>
           </div>
         </div>
       </div>

@@ -127,9 +127,9 @@ class MenuPage extends BasePage<Props, States> {
           <div className={classes.titleMain}>Sở Tài Nguyên và Môi Trường tỉnh Bà Rịa - Vũng Tàu</div>
           <div className={classes.titleSub}>
             <p>
-            WEBGIS QUẢN LÝ NGUỒN THẢI, CHẤT THẢI 
+            WEBGIS QUẢN LÝ NGUỒN THẢI, CHẤT THẢI TỈNH BÀ RỊA - VŨNG TÀU
               <br></br>
-              TỈNH BÀ RỊA - VŨNG TÀU
+              
             </p>
           </div>
         </div>
